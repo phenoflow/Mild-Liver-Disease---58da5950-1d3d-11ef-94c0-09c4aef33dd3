@@ -1,0 +1,42 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/alcoholic-mild-liver-disease---primary.py
+inputModule3:
+  class: File
+  path: python/mild-liver-disease-hepatitis---primary.py
+inputModule4:
+  class: File
+  path: python/mild-liver-disease-atrophy---primary.py
+inputModule5:
+  class: File
+  path: python/chronic-mild-liver-disease---primary.py
+inputModule6:
+  class: File
+  path: python/mild-liver-disease-unspecified---primary.py
+inputModule7:
+  class: File
+  path: python/fatty-mild-liver-disease---primary.py
+inputModule8:
+  class: File
+  path: python/mild-liver-disease-biliary---primary.py
+inputModule9:
+  class: File
+  path: python/mild-liver-disease-cirrhosis---primary.py
+inputModule10:
+  class: File
+  path: python/toxic-mild-liver-disease---primary.py
+inputModule11:
+  class: File
+  path: python/portal-mild-liver-disease---primary.py
+inputModule12:
+  class: File
+  path: python/mild-liver-disease-fibrosis---primary.py
+inputModule13:
+  class: File
+  path: python/mild-liver-disease-classified---primary.py
+inputModule14:
+  class: File
+  path: python/output-cases.py
